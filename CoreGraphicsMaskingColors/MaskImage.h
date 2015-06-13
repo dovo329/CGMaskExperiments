@@ -10,4 +10,7 @@
 
 @interface MaskImage : UIView
 
+@property (nonatomic, assign) uint newCol1;
+@property (nonatomic, assign) uint newCol2;
+
 @end

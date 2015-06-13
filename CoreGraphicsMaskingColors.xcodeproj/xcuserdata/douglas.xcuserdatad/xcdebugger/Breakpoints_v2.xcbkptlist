@@ -10,12 +10,28 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CoreGraphicsMaskingColors/MaskImage.m"
-            timestampString = "455920643.611696"
+            timestampString = "455923155.163274"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "71"
-            endingLineNumber = "71"
-            landmarkName = "-drawRect:"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "-cgImageReplaceColor:newColor:cgImg:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreGraphicsMaskingColors/MaskImage.m"
+            timestampString = "455923155.163274"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "-cgImageReplaceColor:newColor:cgImg:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
