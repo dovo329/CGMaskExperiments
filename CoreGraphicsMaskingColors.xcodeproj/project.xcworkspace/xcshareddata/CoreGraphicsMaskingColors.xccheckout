@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>261B156C-179A-4A34-9A55-799612935332</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CoreGraphicsMaskingColors</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E1784A060FBA28D435BE99549B4626C5ED87BBDE</key>
+		<string>https://github.com/dovo329/CGMaskExperiments.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoreGraphicsMaskingColors.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E1784A060FBA28D435BE99549B4626C5ED87BBDE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dovo329/CGMaskExperiments.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E1784A060FBA28D435BE99549B4626C5ED87BBDE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1784A060FBA28D435BE99549B4626C5ED87BBDE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mask</string>
+		</dict>
+	</array>
+</dict>
+</plist>
